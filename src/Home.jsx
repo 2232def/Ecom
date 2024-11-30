@@ -15,7 +15,6 @@ function Home() {
       <Carousel />
       <Blog />
       <Section3 />
-      <Footer/>
 
     </div>
   );
